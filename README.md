@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VjayRam.visitor-badge&left_text=My%20Profile%20Visitors%20Count&left_color=green&right_color=grey)
 <!--
 **VjayRam/VjayRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
       <img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="30%"/>
-    </div>
+</div>
     <h1>My Profile</h1>
     <div id="badges">
       <p>Follow me here:</p>
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> 
   <br>
-  <img src="https://komarev.com/ghpvc/?username=VjayRam&style=flat-square&color=blue" alt=""/>
 </div>
 
 <p class="description"><br>
@@ -68,7 +68,8 @@ Hi there! My name is Vijay Ram and I am a Pre-final year Computer Science Underg
         <a href="https://github.com/VjayRam/Bag-of-Words-Classifier-for-Tweets">Project 3</a>: A Bag-Of-Words Classifier for Tweets.
       </li>
     </ul>
-    
+<br>
+<br>
     
 ___Check out my other repositories for more such projects!!___
 
