@@ -16,47 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <html>
-  <head>
-    <title>My Profile Readme</title>
-    <style>
-      body {
-        font-family: sans-serif;
-      }
-      h1 {
-        text-align: center;
-      }
-      img {
-        display: block;
-        margin: auto;
-        width: 200px;
-        border-radius: 50%;
-      }
-      .description {
-        text-align: center;
-        font-size: 18px;
-      }
-      .skills {
-        list-style-type: none;
-        padding: 0;
-        margin: 0;
-        text-align: center;
-      }
-      .skills li {
-        display: inline-block;
-        margin: 10px;
-        padding: 10px;
-        border: 1px solid black;
-        border-radius: 5px;
-      }
-      a {
-        text-decoration: none;
-        color: #000000;
-      }
-      a:hover {
-        color: #0066cc;
-      }
-    </style>
-  </head>
   <body>
     <h1>My Profile</h1>
     <img src="https://imgur.com/a/wgluJ1h" alt="Profile Picture">
