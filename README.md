@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <html>
   <body>
     <h1>My Profile</h1>
-    <iframe src="https://giphy.com/embed/2tTiCSfEEP5QS5TjGr" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/after-effects-trapcode-bad-sectors-2tTiCSfEEP5QS5TjGr">via GIPHY</a></p>
+    <div id="header" align="center">
+  <img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="100"/>
+</div>
     <p class="description">
       Hi there! My name is Vijay Ram and I am a Computer Science Undergraduate student at PES University, Bangalore, Karnataka, India. I am interested in  Artificial Intelligence, Machine Learning and Data Science, and I am passionate about using technology to solve real-world problems and learn more about new breakthroughs in technology.
     </p>
