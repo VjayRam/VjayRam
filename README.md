@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<html>
-  <body>
-    <div id="header" align="center">
+
+<div id="header" align="center">
       <img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="30%"/>
     </div>
     <h1>My Profile</h1>
     <div id="badges">
-      <h3>Connect:</h3>
+      <p>Follow me here:</p>
   <a href="https://www.linkedin.com/in/vijay-ram-enaganti/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -31,13 +30,19 @@ Here are some ideas to get you started:
   </a>
   <a href="https://twitter.com/VijayRa50546193">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
+  </a> 
 </div>
-    <p class="description"><br>
-      Hi there! My name is Vijay Ram and I am a Pre-final year Computer Science Undergraduate student at PES University, Bangalore, Karnataka, India. I am interested in  Artificial Intelligence, Machine Learning and Data Science, and I am passionate about using technology to solve real-world problems and learn more about new breakthroughs in technology.
-    </p>
-    <h2>Skills</h2>
+
+<p class="description"><br>
+Hi there! My name is Vijay Ram and I am a Pre-final year Computer Science Undergraduate student at PES University, Bangalore, Karnataka, India. I am interested in  Artificial Intelligence, Machine Learning and Data Science, and I am passionate about using technology to solve real-world problems and learn more about new breakthroughs in technology.
+</p>
+
+- 🌱 I’m currently learning __NLTK, OpenCV, Kotlin__
+- 👯 I’m looking to collaborate on __AI / ML__ and __Deep Learning__ Projects
+- 📫 How to reach me: vjayram.enag@gmail.com
+- ⚡ Check them out: [Param Innovation](https://paraminnovation.org/)
+
+<h2>Skills</h2>
     <ul class="skills">
       <li>Python</li>
       <li>SQL</li>
@@ -46,7 +51,7 @@ Here are some ideas to get you started:
       <li>Data Structures and Algorithms</li>
       <li>Machine Learning</li>
     </ul>
-    <h2>Projects</h2>
+<h2>Projects</h2>
     <p>
       These are the best 3 projects I've worked on till date
     </p>
@@ -61,5 +66,7 @@ Here are some ideas to get you started:
         <a href="https://github.com/VjayRam/Bag-of-Words-Classifier-for-Tweets">Project 3</a>: A Bag-Of-Words Classifier for Tweets.
       </li>
     </ul>
-  </body>
-</html>
+    
+    
+___Check out my other repositories for more such projects!!___
+
