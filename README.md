@@ -46,14 +46,13 @@ Hi there! My name is Vijay Ram and I am a Pre-final year Computer Science Underg
       - [Param Innovation](https://paraminnovation.org/) - [Param Innovation Github](https://github.com/ParamInnovation)
 
 <h2>Skills</h2>
-    <ul class="skills">
-      <li>Python</li>
-      <li>SQL</li>
-      <li>C</li>
-      <li>C++</li>
-      <li>Data Structures and Algorithms</li>
-      <li>Machine Learning</li>
-    </ul>
+    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,django,git,github,html,js,jquery,julia,matlab,mongodb,mysql,nodejs,py,pytorch,r,react,tensorflow,unity,vscode,wordpress&perline=11" />
+  </a>
+</p>
+    
 <h2>Projects</h2>
     <p>
       These are the best 3 projects I've worked on till date
