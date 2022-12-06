@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     </div>
     <h1>My Profile</h1>
     <div id="badges">
-      <p>Connect:</p>
+      <h3>Connect:</h3>
   <a href="https://www.linkedin.com/in/vijay-ram-enaganti/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
