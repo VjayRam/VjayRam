@@ -69,8 +69,14 @@ Hi there! My name is Vijay Ram and I am a Pre-final year Computer Science Underg
         <a href="https://github.com/VjayRam/Bag-of-Words-Classifier-for-Tweets">Project 3</a>: A Bag-Of-Words Classifier for Tweets.
       </li>
     </ul>
-<br>
-<br>
-    
+   
 ___Check out my other repositories for more such projects!!___
+
+<h2>Stats</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VjayRam&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&stroke=2DDD02)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VjayRam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+
 
