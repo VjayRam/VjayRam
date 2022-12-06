@@ -18,19 +18,20 @@ Here are some ideas to get you started:
 <html>
   <body>
     <div id="header" align="center">
-      <img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="50%"/>
+      <img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="30%"/>
     </div>
     <h1>My Profile</h1>
     <div id="badges">
   <a href="https://www.linkedin.com/in/vijay-ram-enaganti/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/VijayRa50546193">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://www.instagram.com/vjayram_18/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://twitter.com/VijayRa50546193">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
 </div>
     <p class="description">
       Hi there! My name is Vijay Ram and I am a Pre-final year Computer Science Undergraduate student at PES University, Bangalore, Karnataka, India. I am interested in  Artificial Intelligence, Machine Learning and Data Science, and I am passionate about using technology to solve real-world problems and learn more about new breakthroughs in technology.
