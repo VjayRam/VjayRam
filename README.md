@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <html>
   <body>
     <h1>My Profile</h1>
-    <img src="https://imgur.com/a/wgluJ1h" alt="Profile Picture">
     <p class="description">
       Hi there! My name is John Doe and I am a software engineer with experience in web development and data analysis. I am passionate about using technology to solve real-world problems and make a positive impact on society.
     </p>
