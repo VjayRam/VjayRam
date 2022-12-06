@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <body>
     <h1>My Profile</h1>
     <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="150%"/>
+  <img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="80%"/>
 </div>
     <p class="description">
       Hi there! My name is Vijay Ram and I am a Computer Science Undergraduate student at PES University, Bangalore, Karnataka, India. I am interested in  Artificial Intelligence, Machine Learning and Data Science, and I am passionate about using technology to solve real-world problems and learn more about new breakthroughs in technology.
