@@ -28,6 +28,9 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/VijayRa50546193">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://twitter.com/VijayRa50546193">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
     <p class="description">
       Hi there! My name is Vijay Ram and I am a Pre-final year Computer Science Undergraduate student at PES University, Bangalore, Karnataka, India. I am interested in  Artificial Intelligence, Machine Learning and Data Science, and I am passionate about using technology to solve real-world problems and learn more about new breakthroughs in technology.
