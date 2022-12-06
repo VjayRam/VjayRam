@@ -42,7 +42,8 @@ Hi there! My name is Vijay Ram and I am a Pre-final year Computer Science Underg
 - 🌱 I’m currently learning __NLTK, OpenCV, Kotlin__
 - 👯 I’m looking to collaborate on __AI / ML__ and __Deep Learning__ Projects
 - 📫 How to reach me: vjayram.enag@gmail.com
-- ⚡ Check them out: [Param Innovation](https://paraminnovation.org/)
+- ⚡ Check them out: 
+      - [Param Innovation](https://paraminnovation.org/) - [Param Innovation Github](https://github.com/ParamInnovation)
 
 <h2>Skills</h2>
     <ul class="skills">
