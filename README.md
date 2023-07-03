@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VjayRam.visitor-badge&left_text=My%20Profile%20Visitors%20Count&left_color=green&right_color=grey)
 <!--
 **VjayRam/VjayRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
