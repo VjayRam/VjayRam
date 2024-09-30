@@ -48,7 +48,7 @@ Hi there! My name is Vijay Ram and I am a Pre-final year Computer Science Underg
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,django,git,github,html,js,jquery,julia,matlab,mongodb,mysql,nodejs,py,pytorch,r,react,tensorflow,unity,vscode,wordpress&perline=11" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,git,github,html,js,julia,matlab,mongodb,mysql,nodejs,py,pytorch,r,react,tensorflow,unity,vscode,wordpress&perline=11" />
   </a>
 </p>
     
