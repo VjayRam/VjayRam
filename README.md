@@ -35,14 +35,14 @@ Here are some ideas to get you started:
 </div>
 
 <p class="description"><br>
-Hi there! My name is Vijay Ram and I am a Pre-final year Computer Science Undergraduate student at PES University, Bangalore, Karnataka, India. I am interested in  Artificial Intelligence, Machine Learning and Data Science, and I am passionate about using technology to solve real-world problems and learn more about new breakthroughs in technology.
+Hi there! My name is Vijay Ram and I am a Graduate Student (MS CS) @ University of California - Riverside. I am interested in  Artificial Intelligence, Machine Learning and Data Science, and I am passionate about using technology to solve real-world problems and learn more about new breakthroughs in technology.
 </p>
 
-- 🌱 I’m currently learning __NLTK, OpenCV, Kotlin__
+- 🌱 I’m currently exploring __Generative AI (LLMs, GANs, RAG, Agentic Systems,etc)__
 - 👯 I’m looking to collaborate on __AI / ML__ and __Deep Learning__ Projects
 - 📫 How to reach me: vjayram.enag@gmail.com
 - ⚡ Check them out: 
-      - [Param Innovation](https://paraminnovation.org/) - [Param Innovation Github](https://github.com/ParamInnovation)
+      - [The Param Science Experience Center](https://paraminnovation.org/) - [Param Science Github](https://github.com/ParamInnovation) - [Param Science Interactives](https://paramscience.org)
 
 <h2>Skills</h2>
     
@@ -58,13 +58,13 @@ Hi there! My name is Vijay Ram and I am a Pre-final year Computer Science Underg
     </p>
     <ul>
       <li>
-        <a href="https://github.com/VjayRam/MTBI_Personality_Classification">Project 1</a>: A model that can predict your personality based on the Meyer Briggs Type Personality Indicator with text inputs.
+        <a href="https://github.com/VjayRam/Mistral-7B-Business">Project 1</a>: A Mistral 7B model fine-tuned for Q&A in the business domain.
       </li>
       <li>
-        <a href="https://github.com/VjayRam/Sentiment-Analyser-for-Movie-reviews">Project 2</a>: A machine learning model for predicting sentiments in movie reviews.
+        <a href="https://github.com/VjayRam/RAG">Project 2</a>: A simple implementation of basic RAG systems.
       </li>
       <li>
-        <a href="https://github.com/VjayRam/Bag-of-Words-Classifier-for-Tweets">Project 3</a>: A Bag-Of-Words Classifier for Tweets.
+        <a href="https://github.com/VjayRam/MTBI_Personality_Classification">Project 3</a>: A BERT based classifier model to accurately predict personality types according to Meyer Briggs Personality Index.
       </li>
     </ul>
    
