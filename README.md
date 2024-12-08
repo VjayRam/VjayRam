@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   </a> 
   <br>
 </div>
+<br>
 
 
 Hi there! My name is ___Vijay Ram___ and I am a __Graduate Student (MS CS) @ University of California - Riverside__. I am interested in  Artificial Intelligence, Machine Learning and Data Science, and I am passionate about using technology to solve real-world problems and learn more about new breakthroughs in technology.
