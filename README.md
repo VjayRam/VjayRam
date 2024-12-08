@@ -1,4 +1,17 @@
 ### Hi there 👋
+<div id="badges">
+      <p>Follow me here:</p>
+  <a href="https://www.linkedin.com/in/vijay-ram-enaganti/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/vjayram_18/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/VijayRa50546193">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> 
+  <br>
+</div>
 
 <!--
 **VjayRam/VjayRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,19 +33,6 @@ Here are some ideas to get you started:
       <img src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif" width="30%"/>
 </div>
     <h1>My Profile</h1>
-    <div id="badges">
-      <p>Follow me here:</p>
-  <a href="https://www.linkedin.com/in/vijay-ram-enaganti/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/vjayram_18/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/VijayRa50546193">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> 
-  <br>
-</div>
 <br>
 
 
