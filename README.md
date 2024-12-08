@@ -34,9 +34,9 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-<p class="description"><br>
-Hi there! My name is Vijay Ram and I am a Graduate Student (MS CS) @ University of California - Riverside. I am interested in  Artificial Intelligence, Machine Learning and Data Science, and I am passionate about using technology to solve real-world problems and learn more about new breakthroughs in technology.
-</p>
+
+Hi there! My name is ___Vijay Ram___ and I am a __Graduate Student (MS CS) @ University of California - Riverside__. I am interested in  Artificial Intelligence, Machine Learning and Data Science, and I am passionate about using technology to solve real-world problems and learn more about new breakthroughs in technology.
+
 
 - 🌱 I’m currently exploring __Generative AI (LLMs, GANs, RAG, Agentic Systems,etc)__
 - 👯 I’m looking to collaborate on __AI / ML__ and __Deep Learning__ Projects
