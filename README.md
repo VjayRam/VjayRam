@@ -10,6 +10,9 @@
   <a href="https://twitter.com/VijayRa50546193">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> 
+  <a href="">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fvijay-ram.vercel.app%2F&style=for-the-badge&label=Portfolio" alt="Portfolio Badge"/>
+  </a>
   <br>
 </div>
 
@@ -41,7 +44,7 @@ Hi there! My name is ___Vijay Ram___ and I am a __Graduate Student (MS CS) @ Uni
 
 - 🌱 I’m currently exploring __Generative AI (LLMs, GANs, RAG, Agentic Systems,etc)__
 - 👯 I’m looking to collaborate on __AI / ML__ and __Deep Learning__ Projects
-- 📫 How to reach me: vjayram.enag@gmail.com
+- 📫 How to reach me: vjayram.enag@gmail.com | [Chat with me - Portfolio](https://vijay-ram.vercel.app/chat)
 - ⚡ Check them out: 
       - [The Param Science Experience Center](https://paraminnovation.org/) - [Param Science Github](https://github.com/ParamInnovation) - [Param Science Interactives](https://paramscience.org)
 
@@ -59,13 +62,13 @@ Hi there! My name is ___Vijay Ram___ and I am a __Graduate Student (MS CS) @ Uni
     </p>
     <ul>
       <li>
-        <a href="https://github.com/VjayRam/Mistral-7B-Business">Project 1</a>: A Mistral 7B model fine-tuned for Q&A in the business domain.
+        <a href="https://github.com/VjayRam/AIVault">AI Vault</a>: A mono-repo of reusable AI components to build AI applications with LLMs, RAG, Agents and more.
       </li>
       <li>
-        <a href="https://github.com/VjayRam/RAG">Project 2</a>: A simple implementation of basic RAG systems.
+        <a href="https://github.com/VjayRam/MealAI">MealAI</a>: A meal macro analysis tool leveraging multi-modal LLMs to analyze meal images and provide nutritional information.
       </li>
       <li>
-        <a href="https://github.com/VjayRam/MTBI_Personality_Classification">Project 3</a>: A BERT based classifier model to accurately predict personality types according to Meyer Briggs Personality Index.
+        <a href="https://github.com/manu042k/Agile-bot">Agile-Bot</a>: An AI-powered Agile project management bot that generates user stories, tasks, and acceptance criteria from high-level feature descriptions.
       </li>
     </ul>
    
