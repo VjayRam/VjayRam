@@ -10,7 +10,7 @@
   <a href="https://twitter.com/VijayRa50546193">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> 
-  <a href="">
+  <a href="https://vijay-ram.vercel.app/">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Fvijay-ram.vercel.app%2F&style=for-the-badge&label=Portfolio" alt="Portfolio Badge"/>
   </a>
   <br>
